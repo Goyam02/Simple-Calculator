@@ -23,7 +23,7 @@ Welcome to the **Simple Calculator** application! This intuitive calculator is b
 3. **Run the Application**: Execute the following command in your terminal:
 
    ```bash
-   python calculator.py
+   python calc.py
 ## 🛠️ Usage
 
 - **Input Numbers**: Click on the number buttons to enter numbers.
