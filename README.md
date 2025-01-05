@@ -50,7 +50,7 @@ We welcome contributions to enhance the Simple Calculator application! If you ha
 2. **Clone the Repository**: Clone your forked repository to your local machine.
 
    ```bash
-   git clone https://github.com/Goyam02/calculator.git
+   git clone https://github.com/Goyam02/Simple-Calculator.git
    
 3. **Create a Branch**: Create a new branch for your feature or bug fix.
    ```bash
